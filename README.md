@@ -1,6 +1,6 @@
 
     
-# MAERIF
+# RATIF
 ## dataset
 
 The data set is divided into two parts, including identification and fall activities, as seen in Figure. Overall, experiments are performed with 11 healthy subjects including different genders and body sizes. Almost the same gender ratio is observed (female n = 6, male n = 5). The height of subjects ranges from 160 to 187cm and the weight of subjects ranges from 51 to 85kg. The relevant information about the participants in the experiments is shown in Table.
